@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franco Asevey</h1>
 <h3 align="center">A passionate FullStack Developer from Argentina</h3>
-![1657330270593](https://user-images.githubusercontent.com/91487119/213064946-4db06bbc-cf50-4b31-a9c9-cdbc7678edcc.jpeg)
+https://www.freecodecamp.org/news/content/images/2020/03/PERN.png
 
 
 <h3 align="left">Connect with me:</h3>
