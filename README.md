@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Franco Asevey</h1>
 <h3 align="center">A passionate FullStack Developer from Argentina</h3>
 
+Portfolio: (soon)
+
+<img src="https://www.freecodecamp.org/news/content/images/2023/01/fullstack.png" alt="stackpern" style="float: left; margin-right: 5px; width: 100%; height: 100%;"  />
+
 - 🌱 I’m currently learning **MongoDb, design patterns , DevOps , Testing , Cloud y Edge , Docker and Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
