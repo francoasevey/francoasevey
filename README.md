@@ -43,8 +43,6 @@ Software Engineer • AI Engineer • Automation • FullStack Developer
 
 <h3 align="left">Languages & Tools</h3>
 
-<h3 align="left">Languages & Tools</h3>
-
 <p align="left">
 
   <!-- Cloud -->
@@ -57,10 +55,6 @@ Software Engineer • AI Engineer • Automation • FullStack Developer
   </a>
 
   <!-- AI -->
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="40" height="40"/>
-  </a>
-
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" width="40" height="40"/>
   </a>
@@ -191,17 +185,3 @@ Software Engineer • AI Engineer • Automation • FullStack Developer
 - n8n
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=francoasevey&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=francoasevey&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoasevey&layout=compact&theme=tokyonight" />
-</p>
