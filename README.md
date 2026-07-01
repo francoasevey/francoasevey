@@ -5,7 +5,7 @@ Building Scalable Software, AI Systems and Cloud Solutions
 </h3>
 
 <p align="center">
-Software Engineer • AI Engineer • Backend Developer
+Software Engineer • AI Engineer • Automation • FullStack Developer
 </p>
 
 ---
@@ -152,6 +152,64 @@ Software Engineer • AI Engineer • Backend Developer
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+
+  <a href="https://www.pinecone.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/pinecone/0B7D77" width="40" height="40"/>
+</a>
+
+<a href="https://www.weaviate.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/weaviate/00C7B7" width="40" height="40"/>
+</a>
+
+<a href="https://azure.microsoft.com/products/ai-services/openai-service/" target="_blank">
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/bedrock/" target="_blank">
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40"/>
+</a>
+
+<a href="https://cloud.google.com/vertex-ai" target="_blank">
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="40" height="40"/>
+</a>
+
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/>
+</a>
+
+<a href="https://www.llamaindex.ai/" target="_blank">
+<img src="https://cdn.simpleicons.org/llama/8A2BE2" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40"/>
+</a>
+
+<a href="https://openai.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="40" height="40"/>
+</a>
+
+<a href="https://www.anthropic.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/anthropic/ffffff" width="40" height="40"/>
+</a>
+
+<a href="https://ai.google.dev/" target="_blank">
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" height="40"/>
+</a>
+
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40"/>
+</a>
+
+
 
 </p>
 
